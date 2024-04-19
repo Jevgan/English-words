@@ -122,6 +122,8 @@ R
     reliability - надійність
     revelation - одкровення
     redemption -  відкуп
+    rotting - гниитя
+    rotten - гнилий
 S
     solemn - урочистий 
     Simultaneously - одночасно
